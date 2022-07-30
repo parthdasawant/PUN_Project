@@ -1,0 +1,7 @@
+pip
+autopep8
+
+
+Extensions
+gitlens
+Code spell checker
