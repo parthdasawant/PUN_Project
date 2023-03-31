@@ -1,5 +1,5 @@
-dhoni=input("is there mahi playing(yes:1, no:0): ")
-if dhoni ==1:
+dhoni=input("is there mahi playing(yes, no): ").lower()
+if dhoni =="yes":
     print("Cricket is on")
 else:
     print("what cricket?")
