@@ -1,2 +1,0 @@
-variable.* filter=lfs diff=lfs merge=lfs -text
-variables.* filter=lfs diff=lfs merge=lfs -text
